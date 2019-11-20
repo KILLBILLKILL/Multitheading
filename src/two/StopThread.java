@@ -5,7 +5,7 @@ public class StopThread {
     /*
 
     是否被中断 ：默认没有被中断
-
+(第二次提交）
 
      */
     private static volatile boolean myInterrupter;
